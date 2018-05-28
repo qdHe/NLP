@@ -1,3 +1,3 @@
 # NLP
 
-Co-worked by Qidu, Zefeng, Jiling
+Co-worked by Qidu, Zefeng, Jialing
