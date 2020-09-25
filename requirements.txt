@@ -170,7 +170,7 @@ stevedore==1.23.0
 sympy==1.1.1
 tabulate==0.7.7
 tensorboard==1.0.0a6
-tensorflow-gpu==1.1.0
+tensorflow-gpu==1.15.4
 tensorflow-tensorboard==0.1.8
 tensorpack==0.8.0
 termcolor==1.1.0
