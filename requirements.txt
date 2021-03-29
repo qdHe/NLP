@@ -131,7 +131,7 @@ pycrypto==2.6.1
 pycurl==7.19.3
 pydensecrf==1.0rc2
 pyglet==1.2.4
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.12.0
 pyhacrf-datamade==0.2.1
 PyLBFGS==0.2.0.3
