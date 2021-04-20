@@ -5,7 +5,7 @@ apturl===0.5.2ubuntu4
 atari-py==0.1.1
 attrs==17.2.0
 audioread==2.1.5
-autobahn==17.5.1
+autobahn==20.12.3
 Automat==0.6.0
 Babel==2.5.1
 backports-abc==0.5
