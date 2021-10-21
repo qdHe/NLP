@@ -7,7 +7,7 @@ attrs==17.2.0
 audioread==2.1.5
 autobahn==17.5.1
 Automat==0.6.0
-Babel==2.5.1
+Babel==2.9.1
 backports-abc==0.5
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
