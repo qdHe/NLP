@@ -122,7 +122,7 @@ piston-mini-client==0.7.5
 plainbox==0.5.3
 ply==3.10
 prompt-toolkit==1.0.14
-protobuf==3.4.0
+protobuf==3.15.0
 ptyprocess==0.5.1
 pybullet==1.2.2
 pycocotools==2.0
