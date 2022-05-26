@@ -179,7 +179,7 @@ Theano==0.9.0
 tornado==4.5.1
 tqdm==4.14.0
 traitlets==4.3.2
-Twisted==16.0.0
+Twisted==22.4.0
 txaio==2.7.1
 typing==3.6.2
 ubuntu-drivers-common==0.0.0
