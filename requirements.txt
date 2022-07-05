@@ -184,7 +184,7 @@ txaio==2.7.1
 typing==3.6.2
 ubuntu-drivers-common==0.0.0
 ufw===0.34-rc-0ubuntu2
-ujson==1.35
+ujson==5.4.0
 unattended-upgrades==0.1
 unity-scope-audacious==0.1
 unity-scope-calculator==0.1
